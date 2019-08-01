@@ -1,4 +1,5 @@
 When compiled and run with a string argument (say, "abc"), the program will generate a string:
+
 a
 ab
 abc
