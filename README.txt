@@ -6,4 +6,4 @@ abc
 ab
 a
 
-and write it to a file in the same directory as the program.
+and write it to a file "GeneratedComment.txt" in the same directory as the program.
